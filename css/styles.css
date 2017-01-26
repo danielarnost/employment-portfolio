@@ -21,4 +21,10 @@ background-color: 	#0099FF;
 .link{
 	padding-left:50px;
 	padding-right:50px;
+	color:black;
+	 transition: all 200ms ease-in;
 }
+/*.link:hover{
+	
+	transform: scale(1.5);
+}*/
